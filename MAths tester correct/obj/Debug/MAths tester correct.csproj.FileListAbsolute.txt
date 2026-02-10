@@ -1,0 +1,20 @@
+C:\Users\EDDIE TRIPLE E\Source\Repos\MAths tester correct\MAths tester correct\obj\Debug\MAths tester correct.csprojAssemblyReference.cache
+C:\Users\EDDIE TRIPLE E\Source\Repos\MAths tester correct\MAths tester correct\obj\Debug\MAths_tester_correct.Form1.resources
+C:\Users\EDDIE TRIPLE E\Source\Repos\MAths tester correct\MAths tester correct\obj\Debug\MAths_tester_correct.Properties.Resources.resources
+C:\Users\EDDIE TRIPLE E\Source\Repos\MAths tester correct\MAths tester correct\obj\Debug\MAths tester correct.csproj.GenerateResource.cache
+C:\Users\EDDIE TRIPLE E\Source\Repos\MAths tester correct\MAths tester correct\obj\Debug\MAths tester correct.csproj.CoreCompileInputs.cache
+C:\Users\EDDIE TRIPLE E\Source\Repos\MAths tester correct\MAths tester correct\bin\Debug\MAths tester correct.exe.config
+C:\Users\EDDIE TRIPLE E\Source\Repos\MAths tester correct\MAths tester correct\bin\Debug\MAths tester correct.exe
+C:\Users\EDDIE TRIPLE E\Source\Repos\MAths tester correct\MAths tester correct\bin\Debug\MAths tester correct.pdb
+C:\Users\EDDIE TRIPLE E\Source\Repos\MAths tester correct\MAths tester correct\obj\Debug\MAths tester correct.exe
+C:\Users\EDDIE TRIPLE E\Source\Repos\MAths tester correct\MAths tester correct\obj\Debug\MAths tester correct.pdb
+C:\Users\EDDIE TRIPLE E\Desktop\NWU MAHIKENG\1st Year\INFS\First year ( infs 113 & 122)\Visual Studio Projects\MAths tester correct\MAths tester correct\bin\Debug\MAths tester correct.exe.config
+C:\Users\EDDIE TRIPLE E\Desktop\NWU MAHIKENG\1st Year\INFS\First year ( infs 113 & 122)\Visual Studio Projects\MAths tester correct\MAths tester correct\bin\Debug\MAths tester correct.exe
+C:\Users\EDDIE TRIPLE E\Desktop\NWU MAHIKENG\1st Year\INFS\First year ( infs 113 & 122)\Visual Studio Projects\MAths tester correct\MAths tester correct\bin\Debug\MAths tester correct.pdb
+C:\Users\EDDIE TRIPLE E\Desktop\NWU MAHIKENG\1st Year\INFS\First year ( infs 113 & 122)\Visual Studio Projects\MAths tester correct\MAths tester correct\obj\Debug\MAths tester correct.csprojAssemblyReference.cache
+C:\Users\EDDIE TRIPLE E\Desktop\NWU MAHIKENG\1st Year\INFS\First year ( infs 113 & 122)\Visual Studio Projects\MAths tester correct\MAths tester correct\obj\Debug\MAths_tester_correct.Form1.resources
+C:\Users\EDDIE TRIPLE E\Desktop\NWU MAHIKENG\1st Year\INFS\First year ( infs 113 & 122)\Visual Studio Projects\MAths tester correct\MAths tester correct\obj\Debug\MAths_tester_correct.Properties.Resources.resources
+C:\Users\EDDIE TRIPLE E\Desktop\NWU MAHIKENG\1st Year\INFS\First year ( infs 113 & 122)\Visual Studio Projects\MAths tester correct\MAths tester correct\obj\Debug\MAths tester correct.csproj.GenerateResource.cache
+C:\Users\EDDIE TRIPLE E\Desktop\NWU MAHIKENG\1st Year\INFS\First year ( infs 113 & 122)\Visual Studio Projects\MAths tester correct\MAths tester correct\obj\Debug\MAths tester correct.csproj.CoreCompileInputs.cache
+C:\Users\EDDIE TRIPLE E\Desktop\NWU MAHIKENG\1st Year\INFS\First year ( infs 113 & 122)\Visual Studio Projects\MAths tester correct\MAths tester correct\obj\Debug\MAths tester correct.exe
+C:\Users\EDDIE TRIPLE E\Desktop\NWU MAHIKENG\1st Year\INFS\First year ( infs 113 & 122)\Visual Studio Projects\MAths tester correct\MAths tester correct\obj\Debug\MAths tester correct.pdb
